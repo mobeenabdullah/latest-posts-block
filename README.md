@@ -1,1 +1,1 @@
-# latest-posts-block
+# Latest Posts Block
